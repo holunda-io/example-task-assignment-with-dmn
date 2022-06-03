@@ -2,6 +2,8 @@
 
 task assignment as a process with dynamically generated DMN as seen on BPMCon 2017
 
+[![example](https://img.shields.io/badge/lifecycle-EXAMPLE-blue.svg)](https://github.com/holisticon#open-source-lifecycle)
+
 ## How to start / play around
 
 1. Start Spring Boot Application (CamundaApplication), this will additionaly start the camunda webapp
